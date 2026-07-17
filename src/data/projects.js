@@ -1,34 +1,35 @@
 export const projects = [
   {
-    title: "Event Booking System",
+    title: "Expense Tracker WebApp",
     description:
-      "A web application for browsing events, booking tickets and managing event-related data.",
-    technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    github: "https://github.com/rajukr07/Event-Booking-System-",
+      "Building a full-stack MERN expense tracking application featuring secure authentication, income and expense management, and real-time financial insights backed by MongoDB.,This is under process.",
+    technologies: ["JavaScript","React.js", "CSS","Node.js", "Express.js", "MongoDB",],
+    
+    github: "https://github.com/rajukr07/Expense-Tracker-MERN-.git",
     live: "",
   },
   {
-    title: "Social Media Web Application",
+    title: "Movie Explorer WebApp",
     description:
-      "A social media application with user profiles, posts and interactive features.",
-    technologies: ["JavaScript", "Node.js", "MongoDB"],
-    github: "https://github.com/rajukr07/Social-Media-Web-Application",
-    live: "",
+      "A modern Movie Explorer application built with React.js that allows users to discover trending movies, search titles, view movie details, and save favorites. Powered by the TMDB API with a responsive and user-friendly interface.",
+    technologies: ["JavaScript", "React.js", "CSS","Axios","OMDb API",],
+    github: "https://github.com/rajukr07/Movie_Explorer",
+    live: "https://moviexplorer03-cr1cpb7as-team-raaj.vercel.app/",
   },
   {
-    title: "Quiz Application",
+    title: "Task Manager WebApp",
     description:
-      "An interactive quiz application that displays questions and calculates the final score.",
-    technologies: ["JavaScript", "HTML", "CSS"],
-    github: "https://github.com/rajukr07/Quiz-Application",
-    live: "",
+      "Built a responsive task management application with React.js that enables users to create, update, delete, and organize tasks while persisting data using the browser's Local Storage.",
+    technologies: ["JavaScript", "React.js","CSS","Local Storage",],
+    github: "https://github.com/rajukr07/Task-manager",
+    live: "https://taskmanager-navy-psi.vercel.app/",
   },
   {
-    title: "Myntra Clone",
+    title: "Personal Portfolio",
     description:
-      "A frontend clone inspired by Myntra with product layouts and responsive design.",
-    technologies: ["HTML", "CSS", "JavaScript"],
+      "A modern and responsive personal portfolio website built with React.js and Vite. Showcases my skills, experience, education, and projects with smooth animations and a clean user interface.",
+    technologies: ["JavaScript","React js","CSS","Vite","Framer Motion"],
     github: "https://github.com/rajukr07/Myntra-clone",
-    live: "",
+    live: "https://raajukr07.vercel.app/",
   },
 ];
