@@ -14,7 +14,7 @@ export const projects = [
       "A modern Movie Explorer application built with React.js that allows users to discover trending movies, search titles, view movie details, and save favorites. Powered by the TMDB API with a responsive and user-friendly interface.",
     technologies: ["JavaScript", "React.js", "CSS","Axios","OMDb API",],
     github: "https://github.com/rajukr07/Movie_Explorer",
-    live: "https://moviexplorer03-cr1cpb7as-team-raaj.vercel.app/",
+    live: "https://movieexplorer-puce.vercel.app/",
   },
   {
     title: "Task Manager WebApp",

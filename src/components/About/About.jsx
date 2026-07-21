@@ -7,13 +7,11 @@ function About() {
         <p className="about__eyebrow">About Me</p>
 
         <h2 className="about__title">
-          JavaScript Developer with a strong business background
+          Full-Stack Developer React & React Native 
         </h2>
 
         <p className="about__text">
-          I am a B.Tech Computer Science graduate passionate about building
-          modern web applications using React.js, Node.js, Express.js and
-          databases such as MongoDB and MySQL.
+          I am a B.Tech Computer Science graduate and Full-Stack Developer passionate about building modern, scalable web and mobile applications. I work with React.js and React Native for frontend development, along with Node.js, Express.js, MongoDB, and MySQL for backend development.
         </p>
 
         <p className="about__text">
@@ -24,10 +22,7 @@ function About() {
         </p>
 
         <p className="about__text">
-          My professional experience has strengthened my communication,
-          analytical thinking and problem-solving skills. I am actively looking
-          for opportunities where I can contribute as a JavaScript developer,
-          learn continuously and build meaningful software products.
+          My 2+ years of business experience have strengthened my communication, leadership, analytical thinking, and problem-solving skills. I am actively seeking opportunities as a Full-Stack JavaScript Developer where I can contribute, continuously learn, and build meaningful web and mobile applications.
         </p>
 
         <div className="about__highlights">
