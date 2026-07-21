@@ -8,7 +8,7 @@ function Skills() {
         <p className="skills__eyebrow">My Skills</p>
 
         <h2 className="skills__title">
-          Technologies I use to build web applications
+          Technologies I use to build Web & Mobile Applications
         </h2>
 
         <div className="skills__grid">
