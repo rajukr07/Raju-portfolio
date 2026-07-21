@@ -31,16 +31,6 @@
   padding-left: 42px;
 }
 
-.experience__list::before {
-  content: "";
-  position: absolute;
-  top: 12px;
-  bottom: 12px;
-  left: 11px;
-  width: 2px;
-  background: #c8c8c8;
-}
-
 .experience__card {
   position: relative;
   padding: 30px;
@@ -51,6 +41,7 @@
     box-shadow 0.25s ease;
 }
 
+/* Timeline dot */
 .experience__card::before {
   content: "";
   position: absolute;
@@ -58,9 +49,24 @@
   left: -38px;
   width: 14px;
   height: 14px;
+  box-sizing: border-box;
   border: 4px solid #f4f4f4;
   border-radius: 50%;
   background: #111111;
+  z-index: 2;
+}
+
+/* Timeline line between two cards */
+.experience__card:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 43px;
+  left: -32px;
+  width: 2px;
+  height: calc(100% + 28px);
+  background: #c8c8c8;
+  z-index: 1;
+  pointer-events: none;
 }
 
 .experience__card:hover {
@@ -112,10 +118,6 @@
     padding-left: 30px;
   }
 
-  .experience__list::before {
-    left: 7px;
-  }
-
   .experience__card {
     padding: 23px;
   }
@@ -125,6 +127,11 @@
     left: -29px;
     width: 12px;
     height: 12px;
+  }
+
+  .experience__card:not(:last-child)::after {
+    top: 35px;
+    left: -24px;
   }
 
   .experience__top {
