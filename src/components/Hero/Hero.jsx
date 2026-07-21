@@ -9,11 +9,10 @@ function Hero() {
 
         <h1 className="hero__name">Raju Kumar</h1>
 
-        <h2 className="hero__role">Node.js Backend Developer</h2>
+        <h2 className="hero__role">Full-Stack Developer</h2>
 
         <p className="hero__description">
-          I build modern and scalable web applications using React.js,
-          Node.js, Express.js and MongoDB.
+          I build modern, scalable web and mobile applications using React.js, React Native, Node.js, Express.js, MongoDB, and MySQL.
         </p>
 
         <div className="hero__buttons">
