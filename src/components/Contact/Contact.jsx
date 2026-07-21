@@ -11,9 +11,7 @@ function Contact() {
         </h2>
 
         <p className="contact__description">
-          I am currently looking for Backend Developer opportunities.
-          Feel free to reach out for internships, full-time roles,
-          freelance work or collaborations.
+          I am actively looking for full-time roles, internships, and freelance opportunities as a Web or Mobile App Developer. Feel free to reach out for exciting projects and collaborations.
         </p>
 
         <div className="contact__info">
