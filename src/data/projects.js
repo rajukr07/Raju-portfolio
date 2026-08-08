@@ -29,7 +29,24 @@ export const projects = [
     description:
       "A modern and responsive personal portfolio website built with React.js and Vite. Showcases my skills, experience, education, and projects with smooth animations and a clean user interface.",
     technologies: ["JavaScript","React js","CSS","Vite","Framer Motion"],
-    github: "https://github.com/rajukr07/Myntra-clone",
+    github: "https://github.com/rajukr07/Raju-portfolio",
     live: "https://raajukr07.vercel.app/",
+  },
+  {
+    title: "EVM-Simulator",
+    description:
+    "A cross-platform Electronic Voting Machine simulator built with React Native and Expo, featuring voter verification, candidate selection, secure vote confirmation, and election resul",
+    technologies: ["React Native","TypeScript","React Hooks","Expo","Expo Router","Node.js and npm",],
+    github: "https://github.com/rajukr07/EVM-Simulator",
+    live: "",
+  },
+{
+    title: "GlamAtHome",
+    description:
+      "GlamAtHome is a full-stack React Native mobile application designed for booking salon and beauty services at home. Users can browse services, select professionals, schedule appointments, manage addresses, track booking status, view booking history, and submit ratings and reviews. The application also includes provider-side functionality for managing service requests and availability.",
+
+      technologies: ["React Native","Expo","TypeScript","Node.js","Express.js","MongoDB","JWT","Zustand","Axios",],
+    github: "https://github.com/rajukr07/GlamAtHome",
+    live: "",
   },
 ];
