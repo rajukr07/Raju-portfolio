@@ -1,13 +1,13 @@
 export const education = [
   {
     course: "B.Tech in Computer Science & Engineering.",
-    institute: "J.C. Bose University of Science and Technology, YMCA ,Faridabad, Haryana",
+    institute: "J.C. Bose University of Science and Technology, YMCA ,Faridabad, Haryana.",
     duration: "2022 - 2025",
     score: "7.5 CGPA",
   },
   {
     course: "Diploma in Computer Science & Engineering.",
-    institute: "Government Polytechnic Barauni,Begusarai, Bihar",
+    institute: "Government Polytechnic Barauni,Begusarai, Bihar.",
     duration: "2018 - 2021",
     score: "7.8 CGPA",
   },
