@@ -14,7 +14,13 @@ function Footer() {
           >
             GitHub
           </a>
-
+          <a
+            href="https://leetcode.com/u/raajucs07/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            LeetCode
+          </a>
           <a
             href="https://www.linkedin.com/in/raj-k07/"
             target="_blank"
