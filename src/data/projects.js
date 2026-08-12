@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Expense Tracker WebApp",
     description:
-      "Building a full-stack MERN expense tracking application featuring secure authentication, income and expense management, and real-time financial insights backed by MongoDB.,This is under process.",
+      "Building a full-stack MERN expense tracking application featuring secure authentication, income and expense management, and real-time financial insights backed by MongoDB.",
     technologies: ["JavaScript","React.js", "CSS","Node.js", "Express.js", "MongoDB",],
     
     github: "https://github.com/rajukr07/Expense-Tracker-MERN-.git",
