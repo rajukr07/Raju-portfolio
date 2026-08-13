@@ -6,7 +6,7 @@ export const projects = [
     technologies: ["JavaScript","React.js", "CSS","Node.js", "Express.js", "MongoDB",],
     
     github: "https://github.com/rajukr07/Expense-Tracker-MERN-.git",
-    live: "",
+    live: "https://expense-tracker-mern-iyfq.vercel.app/login",
   },
   {
     title: "Movie Explorer WebApp",
