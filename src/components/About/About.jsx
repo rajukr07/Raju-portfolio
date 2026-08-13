@@ -9,21 +9,27 @@ function About() {
         <h2 className="about__title">
           Full-Stack Developer React & React Native 
         </h2>
+<p className="about__text">
+  I am a B.Tech Computer Science graduate and Full Stack Web & Mobile Developer
+  with hands-on experience in JavaScript, React.js, React Native, Node.js,
+  Express.js, MongoDB, Expo, and REST APIs. I enjoy building modern, scalable,
+  and user-focused web and mobile applications.
+</p>
 
-        <p className="about__text">
-          I am a B.Tech Computer Science graduate and Full-Stack Developer passionate about building modern, scalable web and mobile applications. I work with React.js and React Native for frontend development, along with Node.js, Express.js, MongoDB, and MySQL for backend development.
-        </p>
+<p className="about__text">
+  Currently, I work as a Freelance Full Stack & React Native Developer,
+  building end-to-end web and mobile applications for startup clients. My work
+  includes responsive UI development, backend APIs, database integration,
+  debugging, testing, and deployment.
+</p>
 
-        <p className="about__text">
-          Along with my technical foundation, I bring more than 2 years of
-          experience in client relationship management, customer engagement,
-          inside sales and sales operations across healthcare, travel and
-          automotive domains.
-        </p>
-
-        <p className="about__text">
-          My 2+ years of business experience have strengthened my communication, leadership, analytical thinking, and problem-solving skills. I am actively seeking opportunities as a Full-Stack JavaScript Developer where I can contribute, continuously learn, and build meaningful web and mobile applications.
-        </p>
+<p className="about__text">
+  I also bring 2+ years of professional experience, which has strengthened my
+  communication, teamwork, problem-solving, and client-handling skills. I am
+  currently seeking opportunities as a React Developer, React Native Developer,
+  or Junior Full Stack Developer where I can contribute to real-world products
+  and continue growing as a developer.
+</p>
 
         <div className="about__highlights">
           <div className="about__highlight">
@@ -32,7 +38,7 @@ function About() {
           </div>
 
           <div className="about__highlight">
-            <span className="about__number">4+</span>
+            <span className="about__number">5+</span>
             <span className="about__label">Core Technologies</span>
           </div>
 
