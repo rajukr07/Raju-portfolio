@@ -15,14 +15,14 @@ function Footer() {
             GitHub
           </a>
           <a
-            href="https://leetcode.com/u/raajucs07/"
+            href="https://leetcode.com/u/raajucs074/"
             target="_blank"
             rel="noreferrer"
           >
             LeetCode
           </a>
           <a
-            href="https://leetcode.com/u/raajucs074/"
+            href="https://www.linkedin.com/in/raj-k07"
             target="_blank"
             rel="noreferrer"
           >
