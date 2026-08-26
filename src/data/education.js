@@ -13,7 +13,7 @@ export const education = [
   },
   {
     course: "Secondary Education",
-    institute: "RK JS High School, Naulagarh, Begusarai, Bihar.",
+    institute: "RK JS 10+2 High School, Naulagarh, Begusarai, Bihar.",
     duration: "2016-18",
     score: "70%",
   },
