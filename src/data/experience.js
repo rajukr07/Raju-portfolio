@@ -1,5 +1,13 @@
 export const experience = [
   {
+    role: "",
+    company: "Navi",
+    duration: "Sep 2026 - Present",
+    location: "Bengaluru, Karnataka, India",
+    description:
+      "",
+  },
+  {
     role: "Full Stack & React Native Developer",
     company: "Freelance / Self-Employed",
     duration: "June 2026 - Present",
